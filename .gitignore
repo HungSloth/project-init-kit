@@ -1,0 +1,40 @@
+# dependencies
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# build output
+dist/
+build/
+out/
+*.egg-info/
+
+# environment & secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# editor / OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+*.iml
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# logs
+*.log
+logs/
+
+# misc
+coverage/
+.cache/
+tmp/
