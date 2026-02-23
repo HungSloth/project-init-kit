@@ -6,7 +6,7 @@ Clone this repo. Run one script. Get a fresh project with its own GitHub repo, d
 
 ```bash
 # clone the template (only need to do this once)
-git clone https://github.com/YOUR_USER/project-init-kit.git ~/project-init-kit
+git clone https://github.com/HungSloth/project-init-kit.git ~/project-init-kit
 
 # start a new project
 ~/project-init-kit/init.sh
